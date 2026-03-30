@@ -68,9 +68,7 @@ YOU MUST respond with ONLY a valid JSON object. No markdown. No backticks. Raw J
   "phases": [
     { "name": "Phase name", "description": "Deliverable and success criteria for this phase" }
   ],
-  "links": [
-    { "label": "Official reference title — specific to this use case", "url": "https://...", "source": "Azure Architecture Center OR Databricks Docs OR Microsoft Learn" }
-  ]
+  "links": []
 }
 
 STRICT RULES:
